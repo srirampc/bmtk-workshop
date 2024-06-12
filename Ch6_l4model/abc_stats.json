@@ -1,0 +1,128 @@
+{
+    "name": "v1",
+    "locations": {
+        "VISp4": {
+            "name": "VISp4",
+            "inh_fraction": 0.1119157340355497,
+            "region_fraction": 0.20969879128692392,
+            "neurons": {
+                "Sst": {
+                    "ei": "i",
+                    "fraction": 0.31512605042016806,
+                    "N": 2218,
+                    "dims": {},
+                    "model_name": "",
+                    "model_type": "",
+                    "model_template": "",
+                    "dynamics_params": ""
+                },
+                "Lamp5": {
+                    "ei": "i",
+                    "fraction": 0.018487394957983194,
+                    "N": 130,
+                    "dims": {},
+                    "model_name": "",
+                    "model_type": "",
+                    "model_template": "",
+                    "dynamics_params": ""
+                },
+                "Sst-Chodl": {
+                    "ei": "i",
+                    "fraction": 0.0,
+                    "N": 0,
+                    "dims": {},
+                    "model_name": "",
+                    "model_type": "",
+                    "model_template": "",
+                    "dynamics_params": ""
+                },
+                "Pvalb": {
+                    "ei": "i",
+                    "fraction": 0.5327731092436975,
+                    "N": 3750,
+                    "dims": {},
+                    "model_name": "",
+                    "model_type": "",
+                    "model_template": "",
+                    "dynamics_params": ""
+                },
+                "Vip": {
+                    "ei": "i",
+                    "fraction": 0.1319327731092437,
+                    "N": 928,
+                    "dims": {},
+                    "model_name": "",
+                    "model_type": "",
+                    "model_template": "",
+                    "dynamics_params": ""
+                },
+                "GABA-Other": {
+                    "ei": "i",
+                    "fraction": 0.0016806722689075631,
+                    "N": 11,
+                    "dims": {},
+                    "model_name": "",
+                    "model_type": "",
+                    "model_template": "",
+                    "dynamics_params": ""
+                },
+                "IT": {
+                    "ei": "e",
+                    "fraction": 0.9626178121359737,
+                    "N": 53780,
+                    "dims": {},
+                    "model_name": "",
+                    "model_type": "",
+                    "model_template": "",
+                    "dynamics_params": ""
+                },
+                "ET": {
+                    "ei": "e",
+                    "fraction": 0.02933389812559568,
+                    "N": 1638,
+                    "dims": {},
+                    "model_name": "",
+                    "model_type": "",
+                    "model_template": "",
+                    "dynamics_params": ""
+                },
+                "CT": {
+                    "ei": "e",
+                    "fraction": 0.00021179709837975219,
+                    "N": 11,
+                    "dims": {},
+                    "model_name": "",
+                    "model_type": "",
+                    "model_template": "",
+                    "dynamics_params": ""
+                },
+                "NP": {
+                    "ei": "e",
+                    "fraction": 0.007412898443291327,
+                    "N": 414,
+                    "dims": {},
+                    "model_name": "",
+                    "model_type": "",
+                    "model_template": "",
+                    "dynamics_params": ""
+                },
+                "Glut-Other": {
+                    "ei": "e",
+                    "fraction": 0.00042359419675950437,
+                    "N": 23,
+                    "dims": {},
+                    "model_name": "",
+                    "model_type": "",
+                    "model_template": "",
+                    "dynamics_params": ""
+                }
+            },
+            "ncells": 62909,
+            "inh_ncells": 7040,
+            "exc_ncells": 55869,
+            "dims": {}
+        }
+    },
+    "ncells": 0,
+    "dims": {}
+}

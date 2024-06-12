@@ -1,2 +1,2 @@
-node_type_id pop_name model_type ei location
-100 SG_001 virtual e BKG
+node_type_id ei pop_name model_type location
+100 e SG_001 virtual BKG
